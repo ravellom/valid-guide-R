@@ -1,7 +1,7 @@
-
-### Capítulo 2. 
-### Raidell Avello - 06.06.2021
-### Exploración y limpieza de datos en R
+### Capítulo 1. ANÁLISIS EXPLORATORIO DE LOS DATOS
+### Raidell Avello - Última actualización 14.06.2021
+### Colaboradores
+#### - Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
 
 # Datos de ejemplo http://openpsychometrics.org/_rawdata/IQ1.zip 
 

@@ -1,11 +1,17 @@
+### Capítulo 3. VALIDEZ
+### Raidell Avello - Última actualización 14.06.2021
+### Colaboradores
+#### - Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 3.2)
 
-### Capítulo 3. 
-### Raidell Avello - 06.06.2021
-### Validez
+
+############ 3.1. VALIDEZ DE CONTENIDO
+
+
+
+############ 3.2. VALIDEZ DE CONSTRUCTO
 
 library(semTools)
 reliability(modelo)
-
 
 ave_cr_reliab_table <- function(model_fit){ 
   relia <- as.data.frame(reliability(model_fit)) 
@@ -28,13 +34,17 @@ ave_cr_reliab_table(model.EST)
 apa::cor_apa(cor.test(iq1$Q12, iq1$Q13))
 
 #Para construir una tabla con múltiples correlaciones:
-  
-  
+
+
 Hmisc::rcorr(as.matrix(iq1[,10:14]))
 correlation_matrix(iq1[,10:14], digits = 3, 
                    use = "upper", replace_diagonal = TRUE)
 save_correlation_matrix(df = iq1[,10:14], filename = "test.csv", 
                         digits = 3, use = "upper")
+
+
+
+############ 3.3. VALIDEZ DE CRITERIO
 
 
   
