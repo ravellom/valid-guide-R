@@ -28,7 +28,7 @@ Este proyecto está en desarrollo y está abierto a colaboración
  - 3.2. VALIDEZ DE CONSTRUCTO
  - 3.3. VALIDEZ DE CRITERIO
 
- Cada capítulo está en las carpetas Chxx donde encontrará el capítulo en desarrollo en .doc y los scripts utilizados en .R.
+ Cada capítulo está en las carpetas Chxx donde encontrará el capítulo en desarrollo en .odt y los scripts utilizados en .R.
 
 
 ## Colaboradores 
