@@ -1,4 +1,4 @@
-### Capítulo 1. ANÁLISIS EXPLORATORIO DE LOS DATOS
+### Capítulo 1. ANÁLISIS EXPLORATORIO DE LOS DATOS CON R
 ### Raidell Avello - Última actualización 14.06.2021
 ### Colaboradores
 #### - Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
@@ -25,7 +25,7 @@ library(likert)
 r <- iq1[,10:19] %>% mutate_if(is.integer, as.factor) %>% likert()
 plot(r)
 
-## Codificar items en reversa
+## Codificar items en sentido contrario (reversa)
 library(car)
 # Recodificar item 5:".difficult to use"
 # No usar dplyr::recode()!
