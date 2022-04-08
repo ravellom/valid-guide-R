@@ -1,9 +1,7 @@
-# Validación de instrumentos usando R, jamovi y SPSS (Social Science Instrument validation using R, jamovi y SPSS)
+# Guía de procedimientos en R, jamovi y SPSS para el proceso de validación de instrumentos en Ciencias Sociales (Guide of procedures in R, jamovi y SPSS for the process of validation of instruments in Social Sciences )
+- Publicada libremente en (Open access at): http://doi.org/10.5281/zenodo.4031450
+- Este proyecto está en desarrollo y está abierto a colaboración (This project is in development process and is open to collaboration)
 
-En este repositorio se ecuentran los scripts en R que se encuentran en el Libro abierto (Scripts of book):
-
-## Guía de procedimientos en R, jamovi y SPSS para el proceso de validación de instrumentos en Ciencias Sociales (Guide of procedures in R, jamovi y SPSS for the process of validation of instruments in Social Sciences )
- 
 ### Autores principales:
 - PhD. Raidell Avello Martínez, ravellom@gmail.com, Universidad de Cienfuegos
 - Dr. Mabel A. Rodríguez Monteagudo, Universidad de Ciencias Médicas de Cienfuegos
@@ -13,12 +11,7 @@ En este repositorio se ecuentran los scripts en R que se encuentran en el Libro 
 - Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
 - Juan Pérez Gómez, Institución, Ciudad, País (Contenido, Apartado 2.2)
 
-Publicada libremente en (Open access at): http://doi.org/10.5281/zenodo.4031450
-
-Este proyecto está en desarrollo y está abierto a colaboración 
-(This project is in development process and is open to collaboration)
-
-## Canales de YouTube patrocinadores
+### Canales de YouTube patrocinadores
 
 RecuEdu. Raidell Avello PhD - Suscríbete: https://www.youtube.com/channel/UCn0v3DhIceFUACWxR9fU30Q  
 Curso de Tesis y ASESORÍA Javier Villar - Suscríbete: https://www.youtube.com/c/Tesispasoapaso
