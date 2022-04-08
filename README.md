@@ -1,8 +1,8 @@
-# Validación de instrumentos usando R (Social Science Instrument validation using R)
+# Validación de instrumentos usando R, jamovi y SPSS (Social Science Instrument validation using R, jamovi y SPSS)
 
 En este repositorio se ecuentran los scripts en R que se encuentran en el Libro abierto (Scripts of book):
 
-## Guía de procedimientos en R para el proceso de validación de instrumentos en Ciencias Sociales (Guide of procedures in R for the process of validation of instruments in Social Sciences )
+## Guía de procedimientos en R, jamovi y SPSS para el proceso de validación de instrumentos en Ciencias Sociales (Guide of procedures in R, jamovi y SPSS for the process of validation of instruments in Social Sciences )
 Dr. Raidell Avello Martínez, ravellom@gmail.com
 Universidad de Cienfuegos
 http://gitema.ucf.edu.cu
