@@ -3,11 +3,15 @@
 En este repositorio se ecuentran los scripts en R que se encuentran en el Libro abierto (Scripts of book):
 
 ## Guía de procedimientos en R, jamovi y SPSS para el proceso de validación de instrumentos en Ciencias Sociales (Guide of procedures in R, jamovi y SPSS for the process of validation of instruments in Social Sciences )
-Dr. Raidell Avello Martínez, ravellom@gmail.com
-Universidad de Cienfuegos
-http://gitema.ucf.edu.cu
-Dr. Mabel A. Rodríguez Monteagudo
-Universidad de Ciencias Médicas de Cienfuegos
+ 
+### Autores principales:
+- PhD. Raidell Avello Martínez, ravellom@gmail.com, Universidad de Cienfuegos
+- Dr. Mabel A. Rodríguez Monteagudo, Universidad de Ciencias Médicas de Cienfuegos
+
+### Colaboradores:
+
+- Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
+- Juan Pérez Gómez, Institución, Ciudad, País (Contenido, Apartado 2.2)
 
 Publicada libremente en (Open access at): http://doi.org/10.5281/zenodo.4031450
 
@@ -34,11 +38,6 @@ Curso de Tesis y ASESORÍA Javier Villar - Suscríbete: https://www.youtube.com/
 
  Cada capítulo está en las carpetas Chxx donde encontrará el capítulo en desarrollo en .odt y los scripts utilizados en .R.
 
-
-## Colaboradores 
-
-- Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
-- Juan Pérez Gómez, Institución, Ciudad, País (Contenido, Apartado 2.2)
 
 ## Videotutoriales complementarios
 
