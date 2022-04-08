@@ -14,6 +14,10 @@ Publicada libremente en (Open access at): http://doi.org/10.5281/zenodo.4031450
 Este proyecto está en desarrollo y está abierto a colaboración 
 (This project is in development process and is open to collaboration)
 
+## Canales de YouTube patrocinadores
+
+RecuEdu. Raidell Avello PhD - Suscríbete: https://www.youtube.com/channel/UCn0v3DhIceFUACWxR9fU30Q  
+Curso de Tesis y ASESORÍA Javier Villar - Suscríbete: https://www.youtube.com/c/Tesispasoapaso
 
 ## Contenido
 
@@ -35,3 +39,10 @@ Este proyecto está en desarrollo y está abierto a colaboración
 
 - Juan Pérez Gómez, Institución, Ciudad, País (Script R, Apartado 2.2)
 - Juan Pérez Gómez, Institución, Ciudad, País (Contenido, Apartado 2.2)
+
+## Videotutoriales complementarios
+
+### Jamovi
+- Introducción a jamovi: https://www.youtube.com/watch?v=NzLnQn6paKs
+- Instalación de módulos: https://www.youtube.com/watch?v=JMsLTnk1_gU
+
