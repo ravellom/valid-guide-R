@@ -36,6 +36,7 @@ Curso de Tesis y ASESORÍA Javier Villar - Suscríbete: https://www.youtube.com/
 ### Jamovi
 - Introducción a jamovi: https://www.youtube.com/watch?v=NzLnQn6paKs
 - Instalación de módulos: https://www.youtube.com/watch?v=JMsLTnk1_gU
+- JAMOVI 📊: Inspección de variables: https://youtu.be/feejYoDtwW0
 
 ## Descarga de software
 - jamovi: https://www.jamovi.org/download.html
